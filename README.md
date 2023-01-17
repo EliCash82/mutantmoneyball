@@ -7,9 +7,12 @@ This data is related to the article entitled MUTANT MONEYBALL on Rally Rd.
 ---
 
 **MutantMoneyballOpenData.csv**: This file holds all the cleaned up data used in the Rally article Mutant Moneyball: The Search for the Most Valuable X-Men Team. The following items represent the headers in this csv file.
-* **Member**: The name of the X-Men team member the data is connected to. In many cases these names are their civilian names and not their "Superhero" names (i.e. `warrenWorthington` is *Angel*, `hankMcCoy` is Beast, etc.
-* **TotalIssues**: This shows the total number of issues each X-Men member appeared in between 1963 and 1992.
-* **TotalIssues60s**: Total number of issues each X-Men member appeared between 1963 and 1969.
+
+| **Member**: | The name of the X-Men team member the data is connected to. In many cases these names are their civilian names and not their "Superhero" names (i.e. `warrenWorthington` is *Angel*, `hankMcCoy` is Beast, etc. |
+| **TotalIssues**: | This shows the total number of issues each X-Men member appeared in between 1963 and 1992. |
+| **TotalIssues60s**: Total number of issues each X-Men member appeared between 1963 and 1969. |
+
+
 * **TotalIssues70s**: Total number of issues each X-Men member appeared between 1970 and 1979.
 * **TotalIssues80s**: Total number of issues each X-Men member appeared between 1980 and 1989.
 * **TotalIssues90s**: Total number of issues each X-Men member appeared between 1990 and 1992.
