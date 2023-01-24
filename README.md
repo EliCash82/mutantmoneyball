@@ -6,19 +6,7 @@ This data is related to the article entitled MUTANT MONEYBALL on Rally Rd.
 
 ---
 
-As we’ve moved and developed into a society that leans into the utility of information and data in so many modalities, more and more of us find that we need to understand data in new and deeper ways. Take this quote from The Forbes Magazine Technology Council: “When most people think about “currency,” they think of dollars or euros. Data is currency. It’s material, and both consumers and enterprises carry it.” The best way data can be analyzed is by making data more open and available, and this article hopes to do this in a fun engaging way.
-
-Data analysis and visualization comes in many different forms and flavors. Some computer scientists prefer to use their object oriented programming skills and use Python Programming to produce visualizations and run data analysis. Others with an aversion to the complexities of programming lean heavily into spreadsheet software like Excel that can create more and more intricate data visualization deliverables all the time. For this article, the R Language was utilized.
-
-The R Language, often referred to simply as R, is software, along with the R-centric IDE RStudio, was used to build initial data visualizations along with libraries like ggplot2 which uses Hadley Wickham’s “Grammar of Graphics” approaches to create charts and graphics. These were then moved into photoshop where they were used as base layers to create more attractive visualizations complete with relevant avatars connected to X-Men team members being analyzed.
-
-Data visualization is certainly more accessible than it ever has been, but that certainly doesn’t mean it isn’t without difficulties. The point of this article is not to magically make all readers into data scientists, but here are a couple of well written tutorials for anyone that might be interested in using this data to work with R Language data viz. There are so many solid tutorials out there, why not stick with the Moneyball theme and check some of these approaches to analyzing Baseball:
-
-A Short Introduction to Using R for Baseball Research - https://tht.fangraphs.com/a-short-ish-introduction-to-using-r-for-baseball-research/
-
-A Gentle Introduction to GGPLOT2: https://bayesball.github.io/VB/gentle_introduction.html
-
-Now that that’s out of the way, here are some formulas if you’d like to test your results against the ones we’ve provided with you here:
+This GitHub repo holds the data used in Rally's MUTANT MONEYBALL article which visualizes X-Men value data, era by era, from the X-Men's creation in 1963 up to 1993. The data collected has been made open access, and the following README.MD file attempts to suggest some ways in which this data can be used to create some R Language data visualizations. This README.md file also contextualizess all of the collected CSV data in an easy to understand table at the foot of the document.
 
 ### Mutant Moneyball Cookbook:
 
