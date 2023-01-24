@@ -24,11 +24,10 @@ Mutant Moneyball Cookbook:
 
 Recipe 1: Import provided Mutant Moneyball Data into R/RStudio:
 
-`library(readr)`
-
-`xteam1 <- read_csv("xteam1.csv")`
-
-`head(xteam1)`
+```
+library(readr)
+xteam1 <- read_csv("xteam1.csv")
+head(xteam1)
 
 Recipe 2: Plot X-Men team members on a graph in which the X axis represents the total number of 1980s issues each member appears in and the Y axis represents the total value of 1980s issues each member appears in. Do this with value data pulled from Heritage auctions.
 
