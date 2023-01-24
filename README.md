@@ -89,7 +89,3 @@ head(xteam1)
 | **PPI80s_oStreet** | Average price per issue for each X-Men member based on 2015 Overstreet Price Guide for issues published between 1980 and 1989. |
 | **PPI90s_oStreet** | Average price per issue for each X-Men member based on 2015 Overstreet Price Guide for issues published between 1990 and 1992. |
 
-* **MostImproved_60s(DELETE?)**:
-* **MostImproved_70s(DELETE?)**:
-* **MostImproved_80s(DELETE?)**:
-* **MostImproved_90s(DELETE?)**:
