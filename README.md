@@ -2,7 +2,7 @@
 
 # Mutant Moneyball Data v 1.1
 
-This data is related to the article entitled MUTANT MONEYBALL on ![https://www.rallyrd.com](Rally).
+This data is related to the article entitled MUTANT MONEYBALL on [Rally](https://www.rallyrd.com).
 
 ---
 
