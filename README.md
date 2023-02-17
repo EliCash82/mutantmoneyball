@@ -2,11 +2,11 @@
 
 # Mutant Moneyball Data v 1.1
 
-This data is related to the article entitled MUTANT MONEYBALL on [Rally](https://www.rallyrd.com).
+This data is related to the article entitled [*Mutant Moneybal*](https://rallyrd.com/mutant-moneyball-a-data-driven-ultimate-x-men/) on [Rally](https://www.rallyrd.com).
 
 ---
 
-This GitHub repo holds the data used in Rally's MUTANT MONEYBALL article which visualizes X-Men value data, era by era, from the X-Men's creation in 1963 up to 1993. The data collected has been made open access, and the following README.MD file attempts to suggest some ways in which this data can be used to create some R Language data visualizations. This README.md file also contextualizess all of the collected CSV data in an easy to understand table at the foot of the document.
+This GitHub repo holds the data used in Rally's [*Mutant Moneybal*](https://rallyrd.com/mutant-moneyball-a-data-driven-ultimate-x-men/) article which visualizes X-Men value data, era by era, from the X-Men's creation in 1963 up to 1993. The data collected has been made open access, and the following README.MD file attempts to suggest some ways in which this data can be used to create some R Language data visualizations. This README.md file also contextualizess all of the collected CSV data in an easy to understand table at the foot of the document.
 
 ### Mutant Moneyball Cookbook:
 
