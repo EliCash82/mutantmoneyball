@@ -1,6 +1,6 @@
 ![](MUTANT-MONEYBALL-logo.png)
 
-# Mutant Moneyball Data v 1.1
+# Mutant Moneyball Data v 1.2
 
 This data is related to the article entitled [*Mutant Moneyball*](https://rallyrd.com/mutant-moneyball-a-data-driven-ultimate-x-men/) on [Rally](https://www.rallyrd.com).
 
@@ -89,3 +89,6 @@ head(xteam1)
 | **PPI80s_oStreet** | Average price per issue for each X-Men member based on 2015 Overstreet Price Guide for issues published between 1980 and 1989. |
 | **PPI90s_oStreet** | Average price per issue for each X-Men member based on 2015 Overstreet Price Guide for issues published between 1990 and 1992. |
 
+**UPDATE**: A CSV entitled `MutantMoneyballAppearanceData.csv` has been added to the collection. This shows exact issue numbers, year of release, and which X-Men team members appeared in each issue. This data was confirmed via a variety of sources, including but not limited to:
+* [UncannyXMen.net](https://uncannyxmen.net/)
+* [Marvel Fandom Database](https://marvel.fandom.com).
