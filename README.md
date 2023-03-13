@@ -93,4 +93,4 @@ head(xteam1)
 
 **v. 1.2 UPDATE**: A CSV entitled `MutantMoneyballAppearanceData.csv` has been added to the collection. This shows exact issue numbers, year of release, and which X-Men team members appeared in each issue. This data was confirmed via a variety of sources, including but not limited to:
 * [UncannyXMen.net](https://uncannyxmen.net/)
-* [Marvel Fandom Database](https://marvel.fandom.com).
+* [Marvel Fandom Database](https://marvel.fandom.com)
